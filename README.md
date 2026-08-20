@@ -168,6 +168,5 @@ class AnishSinha:
 
 <div align="center">
 
-<img src="./assets/india-signature.png" width="100%" alt="India signature">
 
 </div>
