@@ -29,10 +29,11 @@ I'm a **Computer Science & Business Systems** student at **Pondicherry Universit
 **Focus**
 
 `Artificial Intelligence`  
-`Software Engineering`  
+`Software Engineering` 
+`Web Development`
 `IoT & Connected Systems`  
 `FinTech`  
-`Defence / Emerging Technology`
+`Defence & Emerging Technology`
 
 </td>
 
