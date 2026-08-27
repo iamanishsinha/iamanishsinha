@@ -202,42 +202,36 @@ I'm a **Computer Science & Business Systems** student at Pondicherry University.
 <div align="center">
 
 <a href="https://github.com/iamanishsinha">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="60" width="92%"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="60" width="72%"/>
 </a>
 
 <br><br>
 
-<a href="https://linkedin.com/in/anishsinhaprofile">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect%20professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" height="60" width="92%"/>
+<a href="https://www.linkedin.com/in/iamanishsinha/">
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect%20professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" height="60" width="72%"/>
 </a>
 
 <br><br>
 
-<a href="https://x.com/YOUR_HANDLE_HERE">
-<img src="https://img.shields.io/badge/X%20(TWITTER)-Follow%20my%20updates-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" height="60" width="92%"/>
+<a href="https://https://x.com/iamanishsinha_">
+<img src="https://img.shields.io/badge/X%20(TWITTER)-Follow%20my%20updates-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" height="60" width="72%"/>
 </a>
 
 <br><br>
 
 <a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-See%20my%20full%20body%20of%20work-1a1a2e?style=for-the-badge&logo=todoist&logoColor=FF9933&labelColor=0d0d17" height="60" width="92%"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-See%20my%20full%20body%20of%20work-1a1a2e?style=for-the-badge&logo=todoist&logoColor=FF9933&labelColor=0d0d17" height="60" width="72%"/>
 </a>
 
 <br><br>
 
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch%20directly-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8f2c22" height="60" width="92%"/>
+<a href="mailto:anishsinha.edu@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch%20directly-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8f2c22" height="60" width="72%"/>
 </a>
 
 </div>
 
-<br>
 
-## 08 — JAI HIND 🇮🇳
-
-<div align="center">
-<img src="assets/flag/india_flag_wave_chakra.gif" width="600"/>
-</div>
 
 <br>
 
