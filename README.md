@@ -110,7 +110,6 @@ I'm a **Computer Science & Business Systems** student at Pondicherry University.
 <br><br>
 <b>Google Developer Group</b>
 <br>
-<sub>Developer Community</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://fossunited.org/">
@@ -119,7 +118,6 @@ I'm a **Computer Science & Business Systems** student at Pondicherry University.
 <br><br>
 <b>FOSS United</b>
 <br>
-<sub>Open Source Community</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://ecell.iitb.ac.in/">
@@ -128,7 +126,6 @@ I'm a **Computer Science & Business Systems** student at Pondicherry University.
 <br><br>
 <b>E-Cell, IIT Bombay</b>
 <br>
-<sub>Entrepreneurship Community</sub>
 </td>
 </tr>
 </table>
