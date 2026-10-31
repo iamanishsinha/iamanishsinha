@@ -146,7 +146,7 @@ I'm a **Computer Science & Business Systems** student at Pondicherry University.
     4. Replace the two domains below with your own Vercel deployment URL
   Same process for streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
   Until you self-host, this section may occasionally fail to load — that
-  is a limitation of the free public API, not of this README's code.
+  is a limitation of the free public API, not of this README's code
 -->
 
 <div align="center">
